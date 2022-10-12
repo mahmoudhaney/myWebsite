@@ -1,4 +1,5 @@
 # myWebsite
 My Personal Website
 
-Link To Website 1: https://mahmoudhaney-f04b7.web.app/
+Website Link 1: https://mahmoudhaney-f04b7.web.app/
+Website link 2: https://mahmoudhaney.me/
